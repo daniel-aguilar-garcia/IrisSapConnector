@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Export generator="Cache" version="25">
+  <Document name="iris-sap-connector.ZPM">
+    <Module>
+      <Name>iris-sap-connector</Name>
+      <Version>1.1.1</Version>
+      <Packaging>module</Packaging>
+      <SourcesRoot>src</SourcesRoot>
+      <Resource Name="RFC.PKG"/>
+    </Module>
+    
+  </Document>
+</Export>

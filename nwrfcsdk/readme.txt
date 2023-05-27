@@ -1,0 +1,1 @@
+Copy here the content of the folder nwrfcsdk of the SAP Netweaver RFC SDK donwloaded

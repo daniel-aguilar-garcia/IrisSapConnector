@@ -1,2 +1,2 @@
-# IrisSapConnector
-Example connection IRIS with SAP using RFC
+# irissappriv
+Example connection iris with sap
