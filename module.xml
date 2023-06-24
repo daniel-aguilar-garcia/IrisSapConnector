@@ -3,7 +3,7 @@
   <Document name="iris-sap-connector.ZPM">
     <Module>
       <Name>iris-sap-connector</Name>
-      <Version>1.1.1</Version>
+      <Version>1.0.0</Version>
       <Packaging>module</Packaging>
       <SourcesRoot>src</SourcesRoot>
       <Resource Name="RFC.PKG"/>
