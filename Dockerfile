@@ -19,6 +19,7 @@ COPY nwrfcsdk.conf /opt/irisapp/nwrfcsdk.conf
 COPY sapnwrfc.cfg /opt/irisapp/sapnwrfc.cfg
 COPY nwrfcsdk /opt/irisapp/nwrfcsdk
 COPY nwrfcsdk/lib /usr/irissys/bin
+RUN pip3 install --upgrade pip
 RUN pip3 install --target /usr/irissys/mgr/python/ pyrfc
 RUN pip3 install --target /usr/irissys/mgr/python/ configparser
 ## SAP RFC LIBRARIES - END
